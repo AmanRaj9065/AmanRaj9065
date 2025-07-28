@@ -1,8 +1,1 @@
-Hello everyone 
-AmanRaj9065 
-I am interested in Coding and Project working
-I am 13 years old. 
-My birthday is on 26/Dec/2010
-I am for Bihar, India. 
-I Study in KENDRIYA VIDYALAYA EAST CENTRAL RAILWAY SAMASTIPUR
-Yet, I am learning HTML and Python 
+A dedicated student from Bihar India, seeking to leverage strong organizational skills and a proactive approach. Proficient in data entry, ensuring accuracy and efficiency in information management. Skilled in social media management, capable of crafting engaging content and fostering online communities. I'm a fast learner, committed to continuous improvement, and eager to contribute effectively to your team with a strong work ethic and keen attention to detail.
